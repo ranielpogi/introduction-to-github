@@ -233,7 +233,7 @@ Check out these resources to learn more or get involved:
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
+---SSS
 
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
